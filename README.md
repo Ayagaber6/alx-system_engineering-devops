@@ -1,1 +1,1 @@
-the first readme
+print current workin directory
