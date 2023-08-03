@@ -1,0 +1,2 @@
+#!/bin/bash
+if {sudo guillaum} then chown betty hello fi
