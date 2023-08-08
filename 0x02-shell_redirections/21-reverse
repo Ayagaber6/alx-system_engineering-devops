@@ -1,2 +1,2 @@
 #!/bi/bash
-echo "string" | rev
+echo "esreveR" | rev
