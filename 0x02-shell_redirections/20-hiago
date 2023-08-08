@@ -1,0 +1,2 @@
+#!/bin/bash
+ls . | cut -c 'c , C'
