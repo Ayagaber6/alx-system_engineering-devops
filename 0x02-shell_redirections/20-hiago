@@ -1,2 +1,2 @@
 #!/bin/bash
-ls . | cut -c 'c , C'
+ls . | tr -d c
