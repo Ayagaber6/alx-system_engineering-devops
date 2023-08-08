@@ -1,2 +1,2 @@
 #!/bin/bash
-tree -a |rm -r "*.js"
+rm -r "*.js" */
