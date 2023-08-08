@@ -1,2 +1,2 @@
 #!/bin/bash
-ls . | tr -d c
+ls * | tr -d 'cC'
